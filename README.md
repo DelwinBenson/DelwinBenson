@@ -9,7 +9,13 @@
 - Scalable data processing
 
 ## Tools
-Python · MySQL · PostgreSQL · Pandas · NumPy · Git · Github · Power BI  · VS Code
+**Data Engineering:** PySpark · Apache Spark · Databricks · Delta Lake · Unity Catalog
+
+**Programming & Data:** Python · SQL · Pandas
+
+**Databases:** PostgreSQL · MySQL
+
+**Development & BI:** Git · GitHub · Power BI · VS Code
 
 ## Direction
 Currently building production-style data engineering projects while strengthening my knowledge of distributed data processing and modern data platforms.
