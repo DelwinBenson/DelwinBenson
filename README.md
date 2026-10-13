@@ -21,5 +21,5 @@
 Currently building production-style data engineering projects while strengthening my knowledge of distributed data processing and modern data platforms.
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/delwin-benson-b7110a269
+- LinkedIn: https://www.linkedin.com/in/delwin-bensen-b7110a269
 
